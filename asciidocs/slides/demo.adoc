@@ -50,6 +50,22 @@ image::img.png[background, size="contain"]
 * Topic 2
 * Topic 3
 
+=== Detail 1
+
+a
+
+=== Detail 2
+
+b
+
+=== Detail 3
+
+c
+
+
+
+
+
 [%auto-animate]
 == !
 
